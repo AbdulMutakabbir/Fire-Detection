@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/main1"
+        android:orderInCategory="100"
+        android:title="Take Photo"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/main2"
+        android:orderInCategory="100"
+        android:title="Choose from Gallery"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/main3"
+        android:orderInCategory="100"
+        android:title="Cancel"
+        app:showAsAction="never"/>
+</menu>
