@@ -15,6 +15,11 @@ The Application gives you the following capabilities
 * Alert along with the geo-location of the user about the fire report.
 
 
+# Technoligies
+* Android
+* Java
+
+
 # Screen Shots
 ![screenshot_1]()
 ![screenshot_1]()
