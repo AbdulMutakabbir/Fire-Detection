@@ -21,7 +21,6 @@ The Application gives you the following capabilities
 
 
 # Screen Shots
-![screenshot_1]()
-![screenshot_1]()
-![screenshot_1]()
-![screenshot_1]()
+![screenshot_0](https://github.com/AbdulMutakabbir/Fire-Detection/blob/master/assets/demo.gif)
+![screenshot_1](https://github.com/AbdulMutakabbir/Fire-Detection/blob/master/assets/Screenshot_2.png)
+![screenshot_2](https://github.com/AbdulMutakabbir/Fire-Detection/blob/master/assets/Screenshot_1.png)
